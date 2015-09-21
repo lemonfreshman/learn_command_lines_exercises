@@ -9,9 +9,7 @@ Linux/Mac OSX Terminal Commands
 | hostname      | my computer's network name|  
 | mkdir         | make directory            |
 | cd            |change directory
-
 |ls|list directory
-
 |rmdir|remove directory
 
 pushd
