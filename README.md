@@ -1,32 +1,24 @@
 This directory is for working on our homework to learn the command line.
 
 | Commmand      | Function         
-| ------------- |:-------------:|
-| col 3 is      | right-aligned |
-| col 2 is      | centered      |  
+| ------------- |:------------------------:|
+| pwd           | print working directory  |
+| hostname      | my computer's network name     |  
 | zebra stripes | are neat      |   
 
-
 Linux/Mac OSX
-Take this list of commands and create index cards with the names on the left on one side, and the definitions on the other side. Drill them every day while you do this book for just 15 minutes or so.
 
-pwd
-print working directory
 
-hostname
-my computer's network name
+| Commmand      | Function         
+| ------------- |:------------------------:|
+| pwd           | print working directory   |
+| hostname      | my computer's network name|  
+| mkdir         | make directory            |
+| cd            |change directory
 
-mkdir
-make directory
+|ls|list directory
 
-cd
-change directory
-
-ls
-list directory
-
-rmdir
-remove directory
+|rmdir|remove directory
 
 pushd
 push directory
