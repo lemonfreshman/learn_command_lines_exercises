@@ -1,12 +1,6 @@
 This directory is for working on our homework to learn the command line.
 
-| Commmand      | Function         
-| ------------- |:------------------------:|
-| pwd           | print working directory  |
-| hostname      | my computer's network name     |  
-| zebra stripes | are neat      |   
-
-Linux/Mac OSX
+Linux/Mac OSX Terminal Commands
 
 
 | Commmand      | Function         
