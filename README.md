@@ -1,3 +1,1 @@
-# learn_command_lines_exercises
-Homework from learn the command line
-This is more text
+This directory is for working on our homework to learn the command line.
