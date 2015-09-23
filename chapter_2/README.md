@@ -10,14 +10,14 @@ pwd
 pwd 
 /Users/davincicoder/workspace/davinci_coders_t3_2015/homework/learn_command_lines_exercises/chapter_2
  
- yes
+no 
  
 > 3) Are you in your home directory?
 
-pwd 
+pwd
 /Users/davincicoder/workspace/davinci_coders_t3_2015/homework/learn_command_lines_exercises/chapter_2
 
-yes
+no
 
 > 4) What directory did you run that command in?
 
