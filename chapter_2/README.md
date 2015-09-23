@@ -1,22 +1,26 @@
-1) What directory are you in?
+> 1) What directory are you in?
 pwd
+
 /Users/davincicoder/workspace/davinci_coders_t3_2015/homework/learn_command_lines_exercises/chapter_2
 
 
 
-2) Are you in the class directory?
+> 2) Are you in the class directory?
+
 pwd 
 /Users/davincicoder/workspace/davinci_coders_t3_2015/homework/learn_command_lines_exercises/chapter_2
  
  yes
  
-3) Are you in your home directory?
+> 3) Are you in your home directory?
+
 pwd 
 /Users/davincicoder/workspace/davinci_coders_t3_2015/homework/learn_command_lines_exercises/chapter_2
 
-wyes
+yes
 
-4) What directory did you run that command in?
+> 4) What directory did you run that command in?
+
 pwd 
 /Users/davincicoder/workspace/davinci_coders_t3_2015/homework/learn_command_lines_exercises/chapter_2
 
