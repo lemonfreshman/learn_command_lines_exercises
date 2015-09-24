@@ -6,11 +6,11 @@ Alternative "english" ways of asking you to create a directory:
 
 1.) Can you make a temp directory?
 
-mkdir temp
-but no I can't make a tmp
+>mkdir temp
+>but no I can't make a tmp
 
 2.) Can you make a log directory in your 
 class directory?
 
 
-mkdir ../../log 
+>mkdir ../../log 
