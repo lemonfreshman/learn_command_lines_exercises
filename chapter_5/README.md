@@ -6,13 +6,13 @@ Note that Linux/OSX uses /, while Windows uses \\.  In "english" I will simply s
 
 Alternative "english" ways of asking you to change directories:
 
-1.) Can you cd into the temp directory?
+>1.) Can you cd into the temp directory?
 
 cd temp
 Now we are in the temp directory 
 
 
-2. ) Why don't we go into the temp directory?
+>2. ) Why don't we go into the temp directory?
 
 We are already in it. 
 I'll go back out
@@ -20,7 +20,7 @@ I'll go back out
 cd ..
 
 
-3. ) Can you go to the slash temp directory?
+>3. ) Can you go to the slash temp directory?
 
 cd /temp
 
@@ -30,11 +30,14 @@ No.
  but cd \temp does work to get us into the temp directory 
  
  
-4. ) Can you go to the slash temp slash log directory?
+>4. ) Can you go to the slash temp slash log directory?
 
 
 
-What does the .. argument to cd do?  Explain it in the Readme.md.
+>What does the .. argument to cd do?  Explain it in the Readme.md.
+ cd .. sends you into the directory that is one level up. 
+
+
 
 DO MORE:
 

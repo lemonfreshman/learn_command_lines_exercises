@@ -1,20 +1,20 @@
 http://cli.learncodethehardway.org/book/ex6.html
 As you'll learn in this chapter, ls (list directory) shows you what files are in your current directory.
 Alternative "english" ways of asking for a list of files:
-What's in the tmp directory?
 
-ls 
-stuff
+>What's in the tmp directory?
 
-Can you show me what files are in that directory?
+ls /tmp 
+
+>Can you show me what files are in that directory?
 
 cd stuff
 ls 
 things 
 
-What files are in your home directory?
-cd 
-ls 
+>What files are in your home directory?
+
+ls /
 
 Applications, Desktop, Documents, etc....
 
