@@ -31,3 +31,7 @@ grenadine:tmp $ grep "Riley Jones" bar.txt foo.txt
 
 bar.txt:Run away from Riley Jones, quick!
 foo.txt:ERROR: You've found Riley Jones
+
+
+> What does the -i do in grep -i "*" file.txt?
+It has the effect that the search is not CASE sensitive. 
