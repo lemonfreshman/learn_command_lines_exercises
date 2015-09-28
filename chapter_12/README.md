@@ -8,14 +8,14 @@ As you'll learn in this chapter, less and more allow you to view the contents of
 Alternative english ways of asking for your working directory:
 
 
-Can we see what's in our production log?
+>Can we see what's in our production log?
 
 less production.log
 [displays file here] in new window 
 
 
 
-What does our database.yml look like?
+>What does our database.yml look like?
 
 less database.yml 
 [displays file here] in new windo 
