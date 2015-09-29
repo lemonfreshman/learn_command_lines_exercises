@@ -4,13 +4,14 @@ Please note, usually in class when we talk about Temporary directories ("temp di
 Alternative "english" ways of asking you to create a directory:
 
 
-1.) Can you make a temp directory?
 
->mkdir temp
->but no I can't make a tmp
+> Can you make a temp directory?
 
-2.) Can you make a log directory in your 
+grenadine:chapter_4 $ mkdir tmp
+                    $ls 
+tmp 
+
+>Can you make a log directory in your 
 class directory?
 
-
->mkdir ../../log 
+mkdir ../../../log 
