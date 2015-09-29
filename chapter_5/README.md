@@ -8,7 +8,7 @@ Alternative "english" ways of asking you to change directories:
 
 >1.) Can you cd into the temp directory?
 
-cd temp
+cd tmp
 Now we are in the temp directory 
 
 
@@ -22,17 +22,15 @@ cd ..
 
 >3. ) Can you go to the slash temp directory?
 
-cd /temp
+cd /tmp
 
-bash: cd: /temp: No such file or directory
-
-No. 
- but cd \temp does work to get us into the temp directory 
- 
+ Yes. 
  
 >4. ) Can you go to the slash temp slash log directory?
 
+cd /tmp/log
 
+Yes
 
 >What does the .. argument to cd do?  Explain it in the Readme.md.
  cd .. sends you into the directory that is one level up. 
