@@ -23,9 +23,12 @@ foo
 
 >Can you remove everything in the slash temp slash foo directory?
 
-no
-you have to individually remove all files 
+Yes, but you have to run 
 
-rm tmp/foo/deleteme.txt
-ls tmp/foo 
+rm rf /tmp/foo
+
+Which we don't want to do generally because you run the risk 
+of deleting things you didn't mean to delete.
+
+For example like accidentally running rm rf / which would remove pretty much everything.
 
