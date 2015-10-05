@@ -1,22 +1,3 @@
-http://cli.learncodethehardway.org/book/ex10.html
-As you'll learn in this chapter, cp (copy) allows you to create a copy of an existing file.
-Alternative "english" ways of asking you to copy a file:
-
-
-
->Can you copy the foo.txt file to slash temp? (Create foo.txt first...)
-
-echo > foo.text
-cp foo.txt /tmp
-ls tmp
-foo.txt
-
->Can you copy .bash_profile in your home directory to the current directory?
-
-
-cp ~/.bash_profile bash_profile
-cat bash_profile
-
 export LC_ALL=en_US.UTF-8
 
 [[ -s "$HOME/.profile" ]] && source "$HOME/.profile" # Load the default .profile
@@ -35,7 +16,7 @@ export -f parse_git_branch
 
 parse_git_pair() {
   #git about 2> /dev/null | sed -n -e '/user/{p;n;}' | awk -F: '{print $2}' | sed -e 's/^ *//g'
-  if (git rev-parse --git-dir > /dev/null 2>&1); then
+  if (git rev-parse --git-dir > /dev/null 2>&1); then 
       git config user.name
   fi
 }
