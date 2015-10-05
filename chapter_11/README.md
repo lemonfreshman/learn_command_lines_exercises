@@ -9,8 +9,7 @@ files from one location to another.
 
 Yes. 
 
-ls 
-foo.txt
+touch foo.txt
 mv foo.txt blah.txt
 ls
 blah.txt
@@ -19,12 +18,12 @@ blah.txt
 
 Yes. 
 
-echo "this is the content" > production.log
-mkdir temp
-production.log mv temp
-cd temp
-ls 
-production.log
-cat production.log
-this is the content
+mkdir tmp
+mkdir log 
+cd log
+echo "this is the content of production.log" > production.log
+mv production.log ../tmp
+cd ..
+cat tmp/production.log
+this is the content of production.log
 
