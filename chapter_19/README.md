@@ -19,6 +19,7 @@ rm -f removes a file and ignores permissions and doesn't give a message back
  to the command line so it's forcing the file to be removed. So one would only 
  use it when one is very sure that one wants to remove the file in question. 
 
+rm -r trys deletes everything within the directory and files inside recursively, one-by-one and will delete empty folders but it doesn't give necessarily have permission to delete everything. "The read permissions are needed to list the contents of the directory in order to delete them."
 
 
 >What does the ifconfig command do?
