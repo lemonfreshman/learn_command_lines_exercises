@@ -21,6 +21,10 @@ touch foo.txt
 ls 
 foo.txt
 
+> When we touch an existing directory what happens to it?
+
+It changes the timestamp on that file. Thus this changes time that this file was modified/accessed last. 
+
 
 >Unix: Make a directory, change to it, and then make a file in it. Then change one level up and run the rmdir command in this directory. You should get an error. Try to understand why you got this error.
 
