@@ -63,7 +63,8 @@ com.apple.launchd.leKm0hxuHU
 It lists all the directories and subdirectories in them including the files in in them.
 In other words, it provides an overview of everything that resides inside the current directory. 
 
-$ls -lR
+>$ls -lR
+
 total 8
 -rw-r--r--  1 davincicoder  staff  1334 Oct  9 23:32 README.md
 drwxr-xr-x  3 davincicoder  staff   102 Sep 21 03:09 tmp
