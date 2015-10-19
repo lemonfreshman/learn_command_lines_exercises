@@ -18,12 +18,10 @@ blah.txt
 
 Yes. 
 
-mkdir tmp
 mkdir log 
-cd log
-echo "this is the content of production.log" > production.log
-mv production.log ../tmp
-cd ..
-cat tmp/production.log
+echo "this is the content of production.log" > log/production.log
+
+mv log/production.log /tmp
+cat /tmp/production.log
 this is the content of production.log
 
