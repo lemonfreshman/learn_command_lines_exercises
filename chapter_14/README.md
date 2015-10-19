@@ -25,10 +25,10 @@ foo
 
 Yes, but you have to run 
 
-rm rf /tmp/foo
+rm -rf /tmp/foo
 
 Which we don't want to do generally because you run the risk 
 of deleting things you didn't mean to delete.
 
-For example like accidentally running rm rf / which would remove pretty much everything.
+For example like accidentally running sudo rm -rf / which would remove pretty much everything and mess up our computer. 
 
