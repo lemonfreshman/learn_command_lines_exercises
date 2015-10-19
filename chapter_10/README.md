@@ -8,14 +8,13 @@ Alternative "english" ways of asking you to copy a file:
 
 echo > foo.text
 cp foo.txt /tmp
-ls tmp
-foo.txt
+cat /tmp/foo.txt
 
 >Can you copy .bash_profile in your home directory to the current directory?
 
 
-cp ~/.bash_profile bash_profile
-cat bash_profile
+cp ~/.bash_profile .
+cat .bash_profile
 
 export LC_ALL=en_US.UTF-8
 
